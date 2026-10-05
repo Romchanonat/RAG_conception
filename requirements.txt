@@ -1,0 +1,16 @@
+langchain-core
+langchain-text-splitters
+langchain-experimental      # SemanticChunker
+langchain-community         # DirectoryLoader / TextLoader
+langchain-chroma
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+chromadb
+tiktoken
+pandas
+numpy
+matplotlib
+seaborn
+gradio
+python-dotenv
